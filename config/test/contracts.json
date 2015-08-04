@@ -1,4 +1,22 @@
 {
+  "Redirector": {
+    "source": "/Users/peterbb/code_markets/contracts/Redirector.sol",
+    "binary": "0x606060405260e78060116000396000f30060606040523615603a576000357c010000000000000000000000000000000000000000000000000000000090048063427c9a951460a757603a565b60a55b600060009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16600036604051808383808284378201915050925050506000604051808303816000866161da5a03f1915050505b565b005b60b660048035906020015060b8565b005b80600060006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908302179055505b5056",
+    "abi": [
+      {
+        "inputs": [
+          {
+            "type": "address",
+            "name": "_target"
+          }
+        ],
+        "constant": false,
+        "name": "set_target",
+        "outputs": [],
+        "type": "function"
+      }
+    ]
+  },
   "Mul2": {
     "source": "/Users/peterbb/code_markets/contracts/Mul2.sol",
     "binary": "0x6060604052606d8060116000396000f30060606040526000357c010000000000000000000000000000000000000000000000000000000090048063771f3466146037576035565b005b6046600480359060200150605c565b6040518082815260200191505060405180910390f35b60006002820290506068565b91905056",
@@ -21,6 +39,6 @@
         "type": "function"
       }
     ],
-    "address": "0x19eaa2d242cace5754f1dcc3cf94d7a692dd8de2"
+    "address": "0xd6f084ee15e38c4f7e091f8dd0fe6fe4a0e203ef"
   }
 }
