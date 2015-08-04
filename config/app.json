@@ -18,7 +18,8 @@
   },
   "deploy": [
     // Names of contracts that should be deployed to the network.
-    "Mul2"
+    "Mul2",
+    "Redirector"
   ],
   "rpc": {
     // Default RPC configuration.
